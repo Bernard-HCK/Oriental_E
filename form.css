@@ -53,7 +53,7 @@
           resize: none;
         }
         .formbold-form-input::placeholder {
-          color: rgba(0, 0, 0, 0.4);
+          color: rgba(0, 0, 0, 0.2);
         }
         .formbold-form-input:focus {
           border-color: #6A64F1;
